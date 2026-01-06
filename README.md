@@ -16,11 +16,11 @@ I specialize in **Machine Learning for Time Series Forecasting**, with a strong 
 
 ## 🛠️ Skills
 
-**Languages:** Python (advanced), R (advanced), SQL (basic)
+**Languages:** Python (advanced), R (advanced), SQL (basic), SAS (basic)
 
-**ML/Statistics:** Time Series (ARIMA, VAR, UCM), Random Forest, XGBoost, LSTM/GRU, Bayesian Inference, Spatial Statistics
+**ML/Statistics:** Time Series (ARIMA, VAR, UCM), Random Forest, XGBoost, LSTM/GRU, Bayesian Inference, Spatial Statistics, Nonparametric statistics
 
-**Tools:** Git, Jupyter, RStudio, scikit-learn, tidyverse
+**Tools & Environments:** Git, Jupyter, RStudio, VSCode, Google Colab, Docker, scikit-learn, tidyverse, pandas, matplotlib, seaborn, TensorFlow, Keras
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/luca-iaria-b7b49b23a/)
