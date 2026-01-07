@@ -1,6 +1,6 @@
 # Hi, I'm Luca 👋
 
-**Junior Data Scientist** | MSc Statistics & Data Science @ University of Milano-Bicocca
+**MSc CLAMSES (Statistics & Data Science) | Data scientist (Junior) | Machine Learning & Time Series
 
 I specialize in **Machine Learning for Time Series Forecasting**, with a strong foundation in statistics and hands-on experience with both classical and deep learning approaches.
 
