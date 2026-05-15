@@ -8,11 +8,13 @@ I specialize in **Machine Learning for Time Series Forecasting**, with a strong 
 - **Master's Thesis:** Benchmarking statistical models (ARIMA, UCM) vs. ML/DL (Random Forest, LSTM, GRU) for time series forecasting on energy and retail data
 
 ## 📂 Featured Projects
-
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [GenHack 4 - Urban Heat Island](https://github.com/lu01ca/genhack4-urban-heat-island) | Climate downscaling & UHI analysis across Europe (École Polytechnique hackathon) | Python, pandas, statsmodels |
-| [WiFi Occupancy Detection](https://github.com/lu01ca/wifi-occupancy-detection) | Multiclass classification from WiFi signals | R, ranger, keras |
+| [Predictive Maintenance CRPI](https://github.com/lu01ca/Predictive-maintenance-CRPI-challenge) | 2nd place solution for industrial fault detection on imbalanced sequential sensor data | R, Random Forest, SMOTE |
+| [WiFi Occupancy Detection](https://github.com/lu01ca/wifi-occupancy-detection) | Multiclass room occupancy classification from WiFi signal features | R, ranger, Keras |
+| [Brain Tumor CNN](https://github.com/lu01ca/CNN-Brain-Tumor) | Deep learning classification of MRI scans for brain tumor detection | R, CNN, Keras |
+| [Extreme Temperature Forecasting](https://github.com/lu01ca/Extreme-Value-Theory-GPD-distribution) | Extreme value analysis of Milan minimum temperatures using Generalized Pareto Distribution | R, EVT |
 
 ## 🛠️ Skills
 
