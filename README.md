@@ -13,8 +13,9 @@ I specialize in **Machine Learning for Time Series Forecasting**, with a strong 
 | [GenHack 4 - Urban Heat Island](https://github.com/lu01ca/genhack4-urban-heat-island) | Climate downscaling & UHI analysis across Europe (École Polytechnique hackathon) | Python, pandas, statsmodels |
 | [Predictive Maintenance CRPI](https://github.com/lu01ca/Predictive-maintenance-CRPI-challenge) | 2nd place solution for industrial fault detection on imbalanced sequential sensor data | R, Random Forest, SMOTE |
 | [WiFi Occupancy Detection](https://github.com/lu01ca/wifi-occupancy-detection) | Multiclass room occupancy classification from WiFi signal features | R, ranger, Keras |
-| [Brain Tumor CNN](https://github.com/lu01ca/CNN-Brain-Tumor) | Deep learning classification of MRI scans for brain tumor detection | R, CNN, Keras |
+| [Brain Tumor CNN](https://github.com/lu01ca/CNN-Brain-Tumor) | Multi-class MRI tumor classification (4 CNN architectures, VGG16 transfer learning) with Split Conformal Prediction for uncertainty quantification | R, CNN, Keras, Conformal Prediction |
 | [Extreme Temperature Forecasting](https://github.com/lu01ca/Extreme-Value-Theory-GPD-distribution) | Extreme value analysis of Milan minimum temperatures using Generalized Pareto Distribution | R, EVT |
+| [Bayesian Claim Frequency Modelling](https://github.com/lu01ca/Claim-Number-Corsica) | Bayesian GLM/GLMM for auto insurance claim counts (French freMTPL2freq, Corsica); Poisson vs Negative Binomial comparison with spike-and-slab variable selection | R, Stan, MCMC |
 
 ## 🛠️ Skills
 
